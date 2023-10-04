@@ -1,7 +1,7 @@
 title: 'marginalia'
 description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
-baseurl: "/"
-url: "https://davidegallesi.github.io/console"
+baseurl: "/console"
+url: "https://davidegallesi.github.io"
 
 header_pages:
   - index.md
